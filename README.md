@@ -30,7 +30,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white" alt="SASS">
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white" alt="Styled Components" />
-
+  <img src="https://img.shields.io/badge/@emotion-DB7093?style=flat-square&logoColor=white"/>
+  <br/>
+   <img src="https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white" alt="ESLint" />  <img src="https://img.shields.io/badge/-Prettier-%23F7B93E" alt="Prettier" /> 
 
 
 
