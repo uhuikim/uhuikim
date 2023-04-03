@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=waving)
+![header](https://capsule-render.vercel.app/api?type=waving&text=uhuikim!)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uhuikim&show_icons=true&theme=radical)
