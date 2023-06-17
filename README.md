@@ -34,6 +34,3 @@ Here are some ideas to get you started:
   <br/>
    <img src="https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white" alt="ESLint" />  <img src="https://img.shields.io/badge/-Prettier-%23F7B93E" alt="Prettier" /> 
 
-
-
-![uhui's github stats](https://github-readme-stats.vercel.app/api?username=uhuikim&show_icons=true)
